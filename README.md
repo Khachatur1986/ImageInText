@@ -1,1 +1,1 @@
-# ImageInText
+# Image In EditText
